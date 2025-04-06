@@ -2,7 +2,7 @@
   "channels": [
     {
       "name": "SPORTS TV",
-      "url": "http://enlace-del-stream.m3u8",
+      "url": "https://raw.githubusercontent.com/Wampi35/IPTVLIST/refs/heads/main/SPORTS%20TV",
       "logo": "https://www.jerseyvillelibrary.org/free-sports-clipart-sports.png/@@images/image.png",
       "group": "Categoría"
     },

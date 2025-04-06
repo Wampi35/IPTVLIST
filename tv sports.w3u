@@ -1,0 +1,16 @@
+{
+  "channels": [
+    {
+      "name": "SPORTS TV",
+      "url": "http://enlace-del-stream.m3u8",
+      "logo": "https://www.jerseyvillelibrary.org/free-sports-clipart-sports.png/@@images/image.png",
+      "group": "Categoría"
+    },
+    {
+      "name": "Otro Canal",
+      "url": "http://otro-enlace.m3u8",
+      "logo": "http://otro-logo.png",
+      "group": "Películas"
+    }
+  ]
+}

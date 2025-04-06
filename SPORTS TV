@@ -7,8 +7,8 @@
       "group": "Categoría"
     },
     {
-      "name": "Otro Canal",
-      "url": "http://otro-enlace.m3u8",
+      "name": "ESPN",
+      "url": "https://pluto.tv/latam/live-tv/5f2817d3d7573a00080f9175?utm_source=Google&utm_medium=PaidSearch&utm_campaign=1002052&utm_content=10008672&gad_source=1&gclid=CjwKCAjwzMi_BhACEiwAX4YZUHDFMBPjM6EEc1N1obQTxaI9NAcI372KDXeuwXezrigy7Tnj7r0zuBoCicIQAvD_BwE",
       "logo": "http://otro-logo.png",
       "group": "Películas"
     }

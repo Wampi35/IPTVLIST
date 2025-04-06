@@ -1,16 +1,579 @@
 {
-  "channels": [
-    {
-      "name": "SPORTS TV",
-      "url": "http://enlace-del-stream.m3u8",
-      "logo": "https://www.jerseyvillelibrary.org/free-sports-clipart-sports.png/@@images/image.png",
-      "group": "Categor�a"
-    },
-    {
-      "name": "Otro Canal",
-      "url": "http://otro-enlace.m3u8",
-      "logo": "http://otro-logo.png",
-      "group": "Pel�culas"
-    }
+"name": "Sports TV",
+"author": "kingdom™",
+"image": "https://my.dish.com/cms-files/ppvsports/basketball/leaguepass2024-logo.png",
+"info": "ALL ABOUT SPORTS ERA 2025",
+"url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3",
+"groups": [
+
+{"name": "📽️ ℙ𝕖𝕝𝕚𝕔𝕦𝕝𝕒𝕤 𝕔𝕠𝕟 𝕍𝕒𝕝𝕠𝕣",
+"image" : "https://es.tiching.com/uploads/contents/2013/11/05/111172_1383666274_m.png",
+"stations" : 
+	[
+{
+"name": "Las chicas de la estación (2024)",
+"image" : "https://pics.filmaffinity.com/las_chicas_de_la_estacion-249318878-mmed.jpg",
+"info" : " 📚 Drama social/Prostitución/Adolescencia/hechos reales
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+    tres chicas que han crecido en un centro de menores sin saber qué es el amor sin condiciones",
+"url" : "https://ok.ru/videoembed/8862857366270?nochat=1&autoplay=1",
+"isHost" : true
+},
+{
+"name": "El Consentimiento (2023)",
+"image": "https://pics.filmaffinity.com/le_consentement-472831854-mmed.jpg",
+"info" : " 📚 Drama/Abusos sexuales/Adolescencia/hechos reales
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   París, 1985. Vanessa tiene trece años cuando conoce a Gabriel Matzneff, un hombre muy inteligente y manipulador",
+"url" : "https://ok.ru/videoembed/7214228245246?nochat=1&autoplay=1",
+"isHost" : true
+},
+{
+"name": "El salto (2024)",
+"image": "https://pics.filmaffinity.com/el_salto-553524836-mmed.jpg",
+"info" : " 📚 Drama/Inmigración/Drama social
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   Ibrahim llegó a España desde Guinea Conakry y ahora tanto su vida como su familia están en Madrid. Un día fue detenido por la policía y deportado a su país de origen por carecer de permiso de residencia",
+"url" : "https://ok.ru/videoembed/7140100147966?nochat=1&autoplay=1",
+"isHost" : true
+
+},						
+{
+"name" : "Horror Short Film 'Piggy' ¦ ALTER",
+"image" : "https://huarte.es/wp-content/uploads/2024/01/Bullying.jpg",
+"url" : "https://vembed.net/e/4bQVOj7pLq85wKm",
+"isHost" : true},
+]},
+{
+"name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬
+𝐒𝐨𝐛𝐫𝐞 𝐫𝐞𝐟𝐮𝐠𝐢𝐚𝐝𝐨𝐬",
+"image" : "https://img.freepik.com/fotos-premium/diseno-inmigracion-refugiados-aldea-gente-campo-pobre-busca-vida-mejor-construyendo-horizonte_599862-6992.jpg",
+"stations" : 
+	[
+{
+"name" : "Malak un viaje desde Siria (real)",
+"image" : "https://www.researchgate.net/profile/Julide-Etem/publication/342458131/figure/fig2/AS:906485299150848@1593134345962/UNICEF-Malak-at-the-end-of-the-animation-Screenshot-May-10-2019-UNICEF-Malak-at_Q320.jpg",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ UNICEF ,Malak una niña siria de 7 años de edad, relata su viaje desde Siria a Grecia. Echa de menos a sus amigos y perdió todas sus pertenencias",
+"url" : "https://listeamed.net/v/Ro7kOVVXMYqOZWB",
+"isHost" : true
+},
+{
+"name" : "Malak y el barco (animado)",
+"image" : "https://desinformemonos.org/wp-content/uploads/2016/04/maxresdefault.jpg",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ UNICEF ,Hay historias que nunca estuvieron pensadas para los niños. La de Malak es una de ellas",
+"url" : "https://listeamed.net/v/P0poO10vN9XEz17",
+"isHost" : true
+},
+{
+"name" : "La historia de Ivine y Almohada",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ UNICEF nos cuenta la historia real de Ivine, una niña de 14 años, y su amiga imaginaria Almohada",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2017/04/maxresdefault1-8.jpg",
+"url" : "https://listeamed.net/v/NMRLEprwyVY5XaG",
+"isHost" : true
+},
+{
+"name" : "14 kilómetros 2007",
+"image" : "https://pics.filmaffinity.com/14_kilometros-552568902-large.jpg",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Catorce kilómetros, es la distancia que separa África de Europa por el Estrecho de Gibraltar",
+"url" : "https://ok.ru/videoembed/6203608271486",
+"isHost" : true
+},
+{
+"name" : "Que el fin del mundo te pille bailando",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Un violinista callejero se dispone a tocar en su rincón habitual como hace todos los días para ganarse la vida",
+"image" : "https://acdn.mitiendanube.com/stores/002/271/492/products/que-el-fin-del-mundo1-c996bc677f5e04276016803139047025-1024-1024.webp",
+"url" : "https://listeamed.net/v/njJYOd3GaY8Ee9o",
+"isHost" : true
+},
+{
+"name" : "this migrant business",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Documental de animación que aborda el tema de los refugiados y migrantes africanos que se desplazan en busca de un futuro mejor",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2023/01/this-migrant-business.jpg",
+"url" : "https://listeamed.net/v/7QWN5eyMV8m59oR",
+"isHost" : true
+},		
+{
+"name" : "La broma",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Un grupo de amigos está celebrando el cumpleaños de uno de ellos cuando deciden gastarle una broma",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2019/06/la-broma.jpg",
+"url" : "https://listeamed.net/v/YWA8E9wXNyD5GmM",
+"isHost" : true
+},	
+{
+"name" : "Constitución",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ un barrio marginal de la ciudad de Buenos Aires, es retratado a partir de personajes que dan vida a un gimnasio de box ubicado debajo de la estación de trenes y a peluquerías",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2019/03/Constitucion.webp",
+"url" : "https://listeamed.net/v/e028E6RwNJYEYAv",
+"isHost" : true
+},
+{
+"name" : "Ngutu",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Ngutu es un vendedor de periódicos ambulante que apenas vende",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2018/01/Ngutu.jpg",
+"url" : "https://listeamed.net/v/qM1VOPNRBJ8xo4k",
+"isHost" : true
+},
+{
+"name" : "Exilios",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Un emigrante regresa a casa para pasar Navidad con sus padres y quiere contarles algo importante",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2024/02/Exilios.webp",
+"url" : "https://listeamed.net/v/KrdZ5kdvq8bxmX4",
+"isHost" : true
+},
+{
+"name" : "Bolingo El bosque del amor",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ cuenta la historia del trayecto que desde el corazón de África realizan las mujeres emigrantes hasta el norte de Marruecos persiguiendo el sueño europeo",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2022/09/Bolingo.webp",
+"url" : "https://listeamed.net/v/PKN4OwnlyNBEDLj",
+"isHost" : true
+},
+{
+"name" : "Hijas de la Tierra",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Poniendo el foco en la situación de vulnerabilidad de las mujeres rurales",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2014/08/Hijas-de-la-tierra.webp",
+"url" : "https://listeamed.net/v/27BaOn1olNjEMDX",
+"isHost" : true
+},
+{
+"name" : "UnforgottenChild ¿Y si te pasara a ti?",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ desesperación que sentiríamos si en nuestro día a día viésemos desaparecer a nuestros hijos, siguiendo la tendencia de transladar los problemas que concibimos como lejanos a nuestra realidad",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2020/01/unforgottenchild-y-si-te-pasara.jpg",
+"url" : "https://listeamed.net/v/KrdZ5kdvq0bxmX4",
+"isHost" : true
+},
+{
+"name" : "Azadón",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Una visión sin palabras sobre los motivos que llevan a personas sin futuro a cruzar fronteras prohibidas, y lo que les espera al otro lado",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2023/08/azadon.jpg",
+"url" : "https://listeamed.net/v/kKJVORW23d953XD",
+"isHost" : true
+},
+{
+"name" : "Moha y Pilar",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ documental que abre un espacio de reflexión en torno a los procesos de emancipación e inclusión con infancia y juventud",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2022/03/Moha-y-Pilar-cartel.jpg",
+"url" : "https://listeamed.net/v/vQBYEbNma84En1m",
+"isHost" : true
+},
+{
+"name" : "Con Diva",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Un emigrante pakistaní vive en España y lucha por ser él mismo en la poesía de la noche y la realidad del día",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2022/01/Con-Diva.jpg",
+"url" : "https://listeamed.net/v/qA3WOmGRyNexKkz",
+"isHost" : true
+},
+{
+"name" : "Cuestion de suerte",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Cuenta la historia de Pablo, un barrendero sin grandes pretensiones en la vida",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2021/08/Cuestion-de-suerte-2-1.jpg",
+"url" : "https://listeamed.net/v/edVqE4roN6Q5YWm",
+"isHost" : true
+},
+{
+"name" : "Ulises ya no vive aquí",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ migraciones de ida y vuelta. España, un país de emigrantes, recibió miles de ellos a principios de siglo. La crisis cambió la tendencia",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2020/11/ulises-ya-no-vive-aqui-1.jpg",
+"url" : "https://listeamed.net/v/l4vexvD8y7mO8B9",
+"isHost" : true},
+]},
+{
+"name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬 
+𝐒𝐨𝐛𝐫𝐞 𝐆𝐞𝐧𝐞𝐫𝐨",
+"image" : "https://img2.rtve.es/a/5545915?w=400&preview=1585212994812.jpg",
+"stations" : 
+	[	
+{
+"name" : "!! Yo sé quién soy !!",
+"image" : "https://naizen.eus/wp-content/uploads/2019/01/logotipox2.png",
+"info" : " 📚 asociacion /igualdad/transgenero
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ Una canción de Kai Etxaniz para Naizen,es una asociación que agrupa a familias de menores transexuales",
+"url" : "https://listeamed.net/v/KNWlEDWl7Xnxkbp",
+"isHost" : true
+},	
+{
+"name" : "Dime 2020",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ La vida de un niño cambia tras ser víctima de los abusos sexuales de su tío",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2024/06/dime.jpg",
+"url" : "https://ok.ru/video/7688724154891",
+"isHost" : true
+},
+{
+"name" : "Ajo lúcido 2021",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Vive con miedo, padeciendo la secuela emocional del maltrato. Pero Camila tratará de salir de su situación, buscando una alternativa para superar su miedo",
+"image" : "https://www.fescila.com/wp-content/uploads//portadas-cortos/2022/ajo-lucido.jpg",
+"url" : "https://listeamed.net/v/8lKQxYV8JjgEDGY",
+"isHost" : true
+},
+{
+"name" : "De menos 2021",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ despertar conciencias visibilizando la violencia de género menos visible",
+"image" : "https://pics.filmaffinity.com/de_menos-166322122-mmed.jpg",
+"url" : "https://listeamed.net/v/KNWlEDN3Qov5kbp",
+"isHost" : true
+},
+{
+"name" : "Diez razones para dejarte 2019",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Silvia está enamorada y no se da cuenta de que Raúl la controla. Esta escalada de control le lleva al último escalón en la violencia de género",
+"image" : "https://archivodelcortometraje.es/wp-content/uploads/2020/05/63-poster_Diez-razones-para-dejarte-1086x1536.jpg",
+"url" : "https://listeamed.net/v/04rQxWW0KdZxb2N",
+"isHost" : true
+},
+{
+"name" : "El Libro Rojo: El Tiempo",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ ficción que cuenta la historia de cuatro jóvenes que van a pasar un fin de semana juntos a una casa en las montañas",
+"image" : "https://dg9aaz8jl1ktt.cloudfront.net/the_files/93286/std.jpg",
+"url" : "https://listeamed.net/v/qL0YEyP7JYKxDRX",
+"isHost" : true
+},
+{
+"name" : "El novio de Tina 2023",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Tina, una chica adolescente,se comporta de forma extraña y Su hermano,está preocupado porque ha visto cómo su novio le agarraba con fuerza",
+"image" : "https://cdn.pixabay.com/photo/2023/06/15/16/34/wedding-8065958_1280.png",
+"url" : "https://listeamed.net/v/pVa4E8MJ2k7OkzM",
+"isHost" : true
+},	
+{
+"name" : "Entre la vida y la culpa 2022",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Una mujer casada y católica. Inesperadamente, se queda embarazada de otro hombre que no es su marido",
+"image" : "https://i.ytimg.com/vi/kE0XVkAJfjA/maxresdefault.jpg",
+"url" : "https://listeamed.net/v/KNWlEDN3QWR5kbp",
+"isHost" : true
+},	
+{
+"name" : "Golondrina de madera",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Enara, debido a un problema que no se atreve a contar, ingiere una cantidad muy elevada de pastillas",
+"image" : "https://filmfreeway-production-storage-01-storage.filmfreeway.com/press_kits/posters/001/827/902/original/ec485b4cd4-poster.jpg",
+"url" : "https://listeamed.net/v/QNB7xA21B64E0WG",
+"isHost" : true
+},	
+{
+"name" : "Impulso 2014",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Fran es un joven atormentado por sus pensamientos mas oscuros. Un suceso inesperado le pondrá contra las cuerdasy tendrá que demostrarse a sí mismo que es capaz de controlar sus impulso",
+"image" : "https://s3.ppllstatics.com/elcorreo/www/multimedia/202105/05/media/MM-ilune-diaz-cine/impul4so-yoana-miguel.jpg",
+"url" : "https://listeamed.net/v/27BaOn1opMpEMDX",
+"isHost" : true
+},
+{
+"name" : "Interconectado 2019",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Cortometraje mexicano documental de Itzel Sarmientos sobre violencia de género en México",
+"image" : "https://www.cinecorto.org/_files/peliculas/screenshot1_300/6064.jpg",
+"url" : "https://listeamed.net/v/k3gG5q3a2LyE1N2",
+"isHost" : true
+},
+{
+"name" : "Números 2022",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ En un teléfono hay 10 Números, múltiples combinaciones y en algunos casos, solo una es la acertada",
+"image" : "https://photoshop-kopona.com/uploads/posts/2021-11/1636294284_001.jpg",
+"url" : "https://listeamed.net/v/mMq75L8946Y5XPB",
+"isHost" : true
+},
+{
+"name" : "Te Quiero, Madre",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Maltrato de género visto desde los ojos de los hijos. Pasional y directo",
+"image" : "https://www.bbmundo.com/wp-content/uploads/2021/09/mother-el-corto-que-muestra-que-una-mama-no-puede-con-todo.jpeg",
+"url" : "https://listeamed.net/v/eL2157dakMbxrw4",
+"isHost" : true
+},
+{
+"name" : "Tu madre es una flor 2016",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Adriana es una niña de siete años que vive en el campo con su padre. Éste siempre le contó que su madre es una flor",
+"image" : "https://pics.filmaffinity.com/tu_madre_es_una_flor-867731826-mmed.jpg",
+"url" : "https://listeamed.net/v/g9Vd5JWeLGpxqQj",
+"isHost" : true
+},
+{
+"name" : "Abrazos que duelen 2022",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ pareja en la que se presentan agresiones verbales, empujones, encierros, amenazas de golpes, entre otras acciones de violencia",
+"image" : "https://pilees.wordpress.com/wp-content/uploads/2014/12/hqdefault.jpg",
+"url" : "https://listeamed.net/v/qM1VOPNRDjMxo4k",
+"isHost" : true},
+]},
+{
+"name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬 
+𝐒𝐨𝐛𝐫𝐞 𝐃𝐞𝐫𝐞𝐜𝐡𝐨𝐬 𝐇𝐮𝐦𝐚𝐧𝐨𝐬",
+"image" : "https://www.educaciontrespuntocero.com/wp-content/uploads/2019/12/colorida-ilustracion-manos-llegando-mapa-mundial.jpg",
+"stations" : 
+	[
+{
+"name" : "Los Derechos de los Niños-1 La convención 1998",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Derechos de los niños Cumbre Mundial en Favor de la Infancia",	
+"image" : "https://www.defensordelpuebloandaluz.es/sites/default/files/tusderechos/derecho03.jpg",
+"url" : "https://archive.org/download/derechos-ninios/derechos-_1.mpg"},
+{
+"name" : "Los Derechos de los Niños-2 la niñez 1998",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Derechos de los niños Cumbre Mundial en Favor de la Infancia",	
+"image" : "https://www.defensordelpuebloandaluz.es/sites/default/files/tusderechos/derecho03.jpg",
+"url" : "https://archive.org/download/derechos-ninios/derechos-_2.mpg"},
+{
+"name" : "Los Derechos de los Niños-3 niños y niñas 1998",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Derechos de los niños Cumbre Mundial en Favor de la Infancia",	
+"image" : "https://www.defensordelpuebloandaluz.es/sites/default/files/tusderechos/derecho03.jpg",
+"url" : "https://archive.org/download/derechos-ninios/derechos-_3.mpg"},
+{
+"name" : "Los Derechos de los Niños-4 Un niño como tú 1998",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Derechos de los niños Cumbre Mundial en Favor de la Infancia",	
+"image" : "https://www.defensordelpuebloandaluz.es/sites/default/files/tusderechos/derecho03.jpg",
+"url" : "https://archive.org/download/derechos-ninios/derechos-_4.mpg"},
+{
+"name" : "HUMAN 2015 I",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ humanidad de hoy en día vol 1 amor, mujeres, trabajo y pobreza",	
+"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
+"url" : "https://listeamed.net/v/VqbX53gRWa95Qzp",
+"isHost" : true
+},
+{
+"name" : "HUMAN 2015 II",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ humanidad de hoy en día vol 2 guerra, perdón, homosexualidad, familia y vida después de la muerte",	
+"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
+"url" : "https://listeamed.net/v/eL2157daoVkxrw4",
+"isHost" : true
+},
+{
+"name" : "HUMAN 2015 III",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ humanidad de hoy en día vol 3 felicidad| educación| discapacidad| inmigración| corrupción y significado de la vida",	
+"image" : "https://pics.filmaffinity.com/human-397519235-mmed.jpg",
+"url" : "https://listeamed.net/v/0DogOGMGkAYxKjM",
+"isHost" : true
+},	
+{
+"name" : "ADA 2015",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Una mujer joven lucha por liberarse del daño mental y físico de una relación abusiva",
+"image" : "https://m.media-amazon.com/images/M/MV5BNTZlZjVkYjctZGMxZS00MjA1LWE5NjktNzUyNTI0YzEzMDgzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTUxMjg3ODc@._V1_.jpg",
+"url" : "https://listeamed.net/v/LQm9OXNy91px1lg",
+"isHost" : true
+},
+{
+"name" : "voces más allá del olvido 2006",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Ponemos a una mujer musulmana, una croata y una serbia contra una pared, y las desnudamos",
+"image" : "https://m.media-amazon.com/images/I/81dsrniU82L._SY522_.jpg",
+"url" : "https://listeamed.net/v/wP2050epXgBxdmy",
+"isHost" : true
+},
+{
+"name" : "Ciudadanos 2017",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ La falta de trabajo lleva a los ciudadanos a una situación de emergencia, enfrentándoles unos contra otros",
+"image" : "https://pics.filmaffinity.com/ciudadanos-989439467-mmed.jpg",
+"url" : "https://listeamed.net/v/e028E6RwD1yEYAv",
+"isHost" : true
+},
+{
+"name" : "Cacerolada",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Una mujer se prepara para participar en esta revuelta Pide una cacerola a su asistenta, pero la única que le sirve es la que los propios empleados",
+"image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cacerolazo_en_Buenos_Aires.jpg/360px-Cacerolazo_en_Buenos_Aires.jpg",
+"url" : "https://listeamed.net/v/JzkPxzn7JLaxbyd",
+"isHost" : true
+},
+{
+"name" : "Carta a Sasha 2012",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Fatma que vive en el campo de refugiados de Asuerd ,escuchará en televisión una noticia que le dará una gran idea",
+"image" : "https://backpackcine.com/wp-content/uploads/2022/09/Sencillo-copia.jpg",
+"url" : "https://listeamed.net/v/8ozgENLvWrL5mjA",
+"isHost" : true
+},
+{
+"name" : "Arena Fértil 2013",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ Día tras día, Budha se obsesiona cada vez más con la arena, que tras ella, esconde un pequeño secreto",
+"image" : "https://www.berlinale-talents.de/i/PTomQ9ixb0nJVnZFCgarKfkbyG_MiCigHOIKjQkEswY/rs:fill:1600:800:0/g:ce/bG9jYWw6Ly8vcHJvamVjdF9vcmlnLzAwMC8yMTcvMjE3NTYx.jpg",
+"url" : "https://listeamed.net/v/NMRLEprw71Q5XaG",
+"isHost" : true
+},
+{
+"name" : "BANGO 2015",
+"info" : " 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ más que un documental que cuenta una historia, es la documentación de una acción que se desarrolla en el Espace Jarrot un centro de niños",
+"image" : "https://pics.filmaffinity.com/bango-872201653-mmed.jpg",
+"url" : "https://listeamed.net/v/eL2157dak0mxrw4",
+"isHost" : true},
+]},
+{
+"name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬 
+𝐀𝐬𝐨𝐜 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐞 𝐇𝐨𝐦𝐞",
+"image" : "https://proyectohombre.es/wp-content/themes/proyectohombre/assets/images/logo_top.png",
+"stations" : 
+	[
+{
+"name" : "Mejor Pronto Que Tarde",
+"image" : "https://e-cdn-images.dzcdn.net/images/cover/9afd14002223fa88bd2207f319451e65/500x500-000000-80-0-0.jpg",
+"info" : "  📚 jove/Educativo/prevencion/
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ ProjecteJove presenta un mensaje para sensibilizar a los jóvenes y prevenirles de futuras adicciones en clave de rap",
+"url" : "https://listeamed.net/v/4bQVOjJVgVXOwKm",
+"isHost" : true
+},
+{
+"name" : "Mujeres con Proyecto",
+"image" : "https://proyectohombre.es/wp-content/themes/proyectohombre/assets/images/logo_top.png",
+"info" : "  📚 consumo/Educativo/Enseñanza/
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ objetivo que aquellas mujeres que dependen del alcohol y psicofármacos para afrontar su día a día, y dar a conocer las respuestas específicas que tiene la entidad para atenderlas",  
+"url" : "https://archive.org/download/Consumocerodealcoholenmenores./%23MujeresConProyectoSpot.mp4"
+},
+{
+"name" : "Libres De Bulos",
+"image" : "https://proyectohombre.es/wp-content/themes/proyectohombre/assets/images/logo_top.png",
+"info" : " 📚 consumo/Educativo/Enseñanza/
+
+ 💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+ campaña de sensibilización y prevención para los/las jóvenes con el herradicar estos bulos",
+"url" : "https://archive.org/download/libres-de-bulos/%23LibresDeBulos.mp4"
+},
+{
+"name" : "Juego De Llaves",
+"image" : "https://proyectohombre.es/wp-content/themes/proyectohombre/assets/images/logo_top.png",
+"info" : "  📚 consumo/Educativo/Enseñanza/prevencion
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼: 
+  programa de prevención de situaciones de riesgo relacionadas con el consumo de drogas u otras sustancias, que pretende evitar y/o retrasar su uso, así como otros comportamientos adictivos, entre los jóvenes de Educación Secundaria.",
+"url" : "https://archive.org/download/Consumocerodealcoholenmenores./Prevenci%C3%B3nJuegoDeLlaves.mp4"
+},
+{
+"name" : "Cero de alcohol en menores",
+"image" : "https://www.alcoholysociedad.org/FILES/imagenes/Noticias/curso-escolar-prevencion.jpg",
+"info" : " 📚 consumo/Educativo/Enseñanza/
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+ Entrevistas sobre los efectos del alcohol en menores y explicación sobre la necesidad del consumo",
+"url" : "https://archive.org/download/Consumocerodealcoholenmenores./Consumocerodealcoholenmenores..mp4"
+},
+]},
+{
+"name" : "📜𝐜𝐨𝐫𝐭𝐨𝐬 𝐯𝐚𝐫𝐢𝐨𝐬",
+"image" : "https://bioeticaparatodos.com/wp-content/uploads/2021/01/bioetica-para-todos-declaracion-universal-de-los-derechos-humanos.jpg",
+"stations" : 
+	[
+{
+"name" : "Campaña Esa NoSoyYo",
+"image" : "https://static.wikia.nocookie.net/logopedia/images/0/0c/Esa_no_soy_yo.jpg/revision/latest/scale-to-width-down/125?cb=20230118032409&path-prefix=es",
+"info" : " 📚 /Educativo/Campaña/enfermeria
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+Queremos ser reconocidas de una manera justa. Queremos dejar a un lado esas terribles narrativas que nos persiguen",
+"url" : "https://www.youtube.com/embed/BfbsFcPH9ZM",
+"isHost" : true
+},
+{
+"name" : "Lo que somos",
+"image" : "https://cortosdemetraje.com/wp-content/uploads/2023/08/Lo-que-somos.webp",
+"info" : " 📚 /cortosdemetraje/drama-social
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+Blanca, Marcos y Nico se reúnen una vez al mes para ver a su madre, semidependiente desde hace un año y de quien cuida Blanca",
+"url" : "https://www.youtube.com/embed/sLvKfFKXxW8",
+"isHost" : true
+},
+{
+"name" : "Moolaadé 2004 sub",
+"image" : "https://pics.filmaffinity.com/moolaade-553452472-large.jpg",
+"info" : " 📚 Drama/Drama social
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+Collé Ardo vive en un pueblo africano. Hace siete años no permitió que su hija fuera sometida a la ablación, una práctica que le parece una barbarie",
+"url" : "https://archive.org/download/MOOLAADE/MOOLAADE.avi",
+"isHost" : true
+},
+{
+"name" : "Quién lo impide 2021",
+"image" : "https://pics.filmaffinity.com/quien_lo_impide-525096254-mmed.jpg",
+"info" : " 📚 Documental/Adolescencia
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+Quién lo impide es una llamada a transformar la percepción que tenemos sobre la adolescencia y la juventud",
+"url" : "https://ok.ru/videoembed/6220350294654",
+"isHost" : true
+},
+{
+"name" : "Diamantes negros 2013",
+"image" : "https://pics.filmaffinity.com/diamantes_negros-196123385-mmed.jpg",
+"info" : " 📚 Documental/Drama social/África/Fútbol
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+Tras ser captados en Mali por un ojeador de fútbol, los jóvenes Amadou y Moussa abandonan su país, escapando de la pobreza",
+"url" : "https://ok.ru/videoembed/6276685564542",
+"isHost" : true
+},	
+{
+"name" : "Maria y yo 2007",
+"info" : " 📚 Documental/Biografía/DramaFamiliar
+		
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+Documental sobre el autismo",		
+"image" : "http://payload303.cargocollective.com/1/16/533492/8365663/Captura-de-pantalla-2014-08-08-a-las-14.05.46.png",
+"url" : "https://dai.ly/x1m93u9"
+},
+]},
+{
+"name": "☎ 𝐓𝐋𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐈𝐀𝐒",
+"image" : "https://www.autolesion.com/wp-content/uploads/2011/07/Telefono-300x300.gif",
+"author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™", 
+"stations": [
+{
+"name": "Teléfonos",
+"image": "https://www.autolesion.com/wp-content/uploads/2011/07/Telefono-300x300.gif",
+"info" : " 📚 Ayuda/info
+
+
+
+💬 𝓢𝓲𝓷𝓸𝓹𝓼𝓲𝓼:
+   telefonos para una emergencia e info Manten pulsado el numero y te dara la opcion de llamaro copia el tlf y pegalo en el marcador telefonico",  
+"url" : "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/TLF-Valores-EMERG.txt",
+"embed": "true"
+},	
+]}
   ]
 }
+
+
+
+
